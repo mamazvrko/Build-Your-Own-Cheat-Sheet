@@ -6,10 +6,10 @@ This project is a hands-on challenge to build your own HTML/CSS cheat sheet, ser
 
 ## Project Goals
 
-- **Build a personalized reference cheat sheet for HTML and CSS**
-- **Document at least one HTML or CSS topic**
-- **Use HTML tables for clear, organized documentation**
-- **Apply a custom color scheme and code styling**
+- Build a personalized reference cheat sheet for HTML and CSS
+- Document at least one HTML or CSS topic
+- Use HTML tables for clear, organized documentation
+- Apply a custom color scheme and code styling
 
 ## Prerequisites
 
